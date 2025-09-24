@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+logs/
+main.log
+*.log
+>>>>>>> b6fbc01830b18cec90deb28b19a4c800643ef568
