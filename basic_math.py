@@ -10,5 +10,8 @@ def multiply(x, y):
 def divide(x, y):
     pass
 
+def power(x, y) -> None:
+    return x ** y
+
 
 
